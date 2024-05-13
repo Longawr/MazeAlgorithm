@@ -1,2 +1,2 @@
-GUI: pygame
-Algorithm: Brute Force searching, some random searching
+* GUI: pygame
+* Algorithm: Brute Force searching, some random searching
